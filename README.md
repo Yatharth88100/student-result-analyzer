@@ -1,1 +1,1 @@
-# student-result-analyzer
+# Student Result Analyzer
